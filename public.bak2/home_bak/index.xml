@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home_baks on Yonghae&#39;s Website</title>
+    <link>https://yonghaekim.github.io/home_bak/</link>
+    <description>Recent content in Home_baks on Yonghae&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://yonghaekim.github.io/home_bak/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://yonghaekim.github.io/home_bak/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://yonghaekim.github.io/home_bak/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://yonghaekim.github.io/home_bak/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://yonghaekim.github.io/home_bak/about/</guid>
+      <description>Biography Yonghae Kim is a Ph.D. student at Georgia Tech in Computer Science. His research interests include computer architecture, machine learning, and memory systems.</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://yonghaekim.github.io/home_bak/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://yonghaekim.github.io/home_bak/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://yonghaekim.github.io/home_bak/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://yonghaekim.github.io/home_bak/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://yonghaekim.github.io/home_bak/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://yonghaekim.github.io/home_bak/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Talks</title>
+      <link>https://yonghaekim.github.io/home_bak/talks_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://yonghaekim.github.io/home_bak/talks_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://yonghaekim.github.io/home_bak/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://yonghaekim.github.io/home_bak/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://yonghaekim.github.io/home_bak/experience/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://yonghaekim.github.io/home_bak/experience/</guid>
+      <description> Engineer, Samsung Electronics, Mar. 2016 - Mar. 2018  Worked as a front-end designer Involved in developing memory interface IPs (PHY)  Internship, Samsung Electronics, Jan. 2015 - Feb. 2015  Conducted research on PRBS theory and hardware architecture  </description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://yonghaekim.github.io/home_bak/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://yonghaekim.github.io/home_bak/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Honors &amp; Awards</title>
+      <link>https://yonghaekim.github.io/home_bak/honors/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://yonghaekim.github.io/home_bak/honors/</guid>
+      <description> Kwanjeong Graduate Fellowship, 2018-present National Science &amp;amp; Technology Scholarship, 2010-11, 2014-15 Samsung Scholarship, 2014-2015 Sungkyunkwan University Scholarship, 2010-2011  </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://yonghaekim.github.io/home_bak/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://yonghaekim.github.io/home_bak/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom Section</title>
+      <link>https://yonghaekim.github.io/home_bak/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://yonghaekim.github.io/home_bak/teaching/</guid>
+      <description>This is an example of using the custom widget to create your own homepage section.
+To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://yonghaekim.github.io/home_bak/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://yonghaekim.github.io/home_bak/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://yonghaekim.github.io/home_bak/search/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://yonghaekim.github.io/home_bak/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://yonghaekim.github.io/home_bak/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://yonghaekim.github.io/home_bak/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
