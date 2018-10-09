@@ -10,8 +10,8 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Computer Architecture",
     "Machine Learning",
+    "Computer Architecture",
     "Memory Systems"
   ]
 
@@ -35,5 +35,6 @@ weight = 5
 
 # Biography
 
-Yonghae Kim is a Ph.D. student at Georgia Tech in Computer Science. His research interests include computer architecture, machine learning, and memory systems.
+I am a Ph.D. student at Georgia Tech in Computer Science. I am working with Prof. Hyesoon Kim, and my research interests include machine learning, computer architecture, and memory systems.
+I am currently working on neural translation training (NMT) for programming languages.
 
