@@ -20,7 +20,7 @@ autolink = true
 * Involved in developing memory interface IPs (PHY)
 
 
-#### Internship, Samsung Electronics, Jan. 2015 - Feb. 2015
+#### Intern, Samsung Electronics, Jan. 2015 - Feb. 2015
 * Conducted research on PRBS theory and hardware architecture
 
 

@@ -10,14 +10,15 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Machine Learning",
     "Computer Architecture",
-    "Memory Systems"
+    "Compiler",
+    "Machine Learning",
+    "Hardware Designs"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Computer Science, 2018-present"
+  course = "Ph.D. in Computer Science, 2018-present"
   institution = "Georgia Institute of Technology"
 #  year = 2012
 
@@ -27,7 +28,7 @@ weight = 5
 #  year = 2009
 
 [[education.courses]]
-  course = "BSc in Semiconductor Systems Engineering, 2010-2016"
+  course = "BSc. in Semiconductor Systems Engineering, 2010-2016"
   institution = "Sungkyunkwan University"
 #  year = 2008
  
@@ -35,6 +36,7 @@ weight = 5
 
 # Biography
 
-I am a Ph.D. student at Georgia Tech in Computer Science. I am working with Prof. Hyesoon Kim, and my research interests include machine learning, computer architecture, and memory systems.
-I am currently working on neural machine translation (NMT) for programming languages.
+I am a Ph.D. student at Georgia Tech in Computer Science. I am working with Prof. Hyesoon Kim,
+and my research interests include computer architecture, compiler, machine learning, and hardware designs.
+I am currently working on translating programming languages for hardware generation using neural machine translation (NMT).
 

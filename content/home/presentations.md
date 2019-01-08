@@ -15,6 +15,6 @@ autolink = true
 
 +++
 
-* Translating CUDA to OpenCL for Hardware Generation using Neural Machine Translation, 2nd CRNCH Commit, Poster Session
+* Translating CUDA to OpenCL for Hardware Generation using Neural Machine Translation, CGO-2019 SRC, Feb. 16-20th, 2019.
 
 
