@@ -36,5 +36,5 @@ weight = 5
 # Biography
 
 I am a Ph.D. student at Georgia Tech in Computer Science. I am working with Prof. Hyesoon Kim, and my research interests include machine learning, computer architecture, and memory systems.
-I am currently working on neural translation training (NMT) for programming languages.
+I am currently working on neural machine translation (NMT) for programming languages.
 
