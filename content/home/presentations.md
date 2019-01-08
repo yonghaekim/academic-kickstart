@@ -8,7 +8,7 @@ title = "Presentations"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 30
 
 # Automatically link email and phone?
 autolink = true
