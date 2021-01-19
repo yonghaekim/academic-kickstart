@@ -11,9 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Computer Architecture",
-    "Compiler",
-    "Machine Learning",
-    "Hardware Designs"
+    "Hardware Security"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -36,7 +34,6 @@ weight = 5
 
 # Biography
 
-I am a Ph.D. student at Georgia Tech in Computer Science. I am working with Prof. Hyesoon Kim,
-and my research interests include computer architecture, compiler, machine learning, and hardware designs.
-I am currently working on translating programming languages for hardware generation using neural machine translation (NMT).
+I am a Ph.D. student in Computer Science at the Georgia Tech, who is being advised by Prof. Hyesoon Kim.
+My research interests include computer architecture and hardware security, with focus on low-overhead yet robust defense against memory safety vulnerabilities.
 

@@ -240,17 +240,12 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "yonghae@gatech.edu"
-
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fab"
-    link = ""
+    link = "mailto:yonghae@gatech.edu"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = ""
+    link = "https://scholar.google.com/citations?user=VWhHRJUAAAAJ&hl=en"
 
   [[params.social]]
     icon = "github"
@@ -297,15 +292,10 @@ enableGitInfo = false
   url = "#honors"
   weight = 5
 
-# [[menu.main]]
-#   name = "Teaching"
-#   url = "#teaching"
-#   weight = 5
-
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 5
+  weight = 6
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
